@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 # -------- Settings --------
-base_path = '/Users/aaron/PycharmProjects/PythonProject1'
+base_path = '/Users/aaron/PycharmProjects/LongBTCTrade
 data_file = os.path.join(base_path, 'Data', 'parameter_search_results.csv')
 
 # -------- Load Data --------
